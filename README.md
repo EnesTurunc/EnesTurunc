@@ -3,11 +3,12 @@
 
 🚀 Kotlin ile modern Android uygulamaları geliştiriyorum. 
 💡 Yeni teknolojiler öğrenmeyi ve projeler üretmeyi seviyorum.
+🤝 Takım çalışmasına uyumlu ve işbirliğine açık bir geliştiriciyim.
 
 ### 🚀 Kullandığım Teknolojiler  
 - 🛠 **Diller & Araçlar:** Kotlin
 - 📱 **Android:** Jetpack Compose, XML, ViewModel, LiveData  
-- ☁️ **Backend & Database:** Firebase, Room, Retrofit  
+- ☁️ **Backend & Database:** Firebase, Retrofit  
 - 🛠 **Diğer Araçlar:** Git, GitHub, Android Studio  
 
 
