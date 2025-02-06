@@ -25,7 +25,7 @@ Alışveriş uygulaması (Kotlin + XML + Firebase + REST API )
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnesTurunc&show_icons=true&theme=tokyonight)
 
 ### 🔗 Beni Takip Et  
-[![LinkedIn](https://www.linkedin.com/in/enes-turunç-785a39345/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-turunç-785a39345/) 
 
 
 ### 🤝 İletişim  
