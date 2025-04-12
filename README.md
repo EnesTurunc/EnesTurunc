@@ -14,6 +14,9 @@
 
 ### 💻 Öne Çıkan Projelerim  
 
+📌**[AiWithImage](https://github.com/EnesTurunc/AIWithImage)**  
+Kişisel sağlık ve fitness uygulaması (Kotlin + XML + API + AI + Picasso)  
+
 📌 **[FitTrackPro](https://github.com/EnesTurunc/FitTrackPro)**  
 Kişisel sağlık ve fitness uygulaması (Kotlin + Firebase + XML)  
 
